@@ -1,0 +1,21 @@
+Tugas Besar VB
+Tema : Hiburan
+Judul : Catch the chick
+
+S1 Pendidikan Teknik Informatika 2011
+
+Nama Anggota:
+> Iman Budi Hutomo
+> M. Sonhaji Akbar
+> Umi Kholifah
+> Umi Khulsum
+
+
+Deskripsi Game:
+> Game ini bernama "Catch the Chick"
+> Terdapat Ayam yang bergerak secara random
+> Pemain bertugas menangkap ayam dengan cara meng-klik pada ayam yang sedang bergerak
+> Dengan adanya timer, Ketika ayam tertangkap(di-klik) maka score akan bertambah dan waktu* juga akan bertambah.
+> Ketika waktu telah habis maka game akan berakhir dan score akan ditampilkan
+
+*Timer Hitung mundur hingga game over/ game selesai
