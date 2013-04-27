@@ -1,0 +1,26 @@
+About Catch The Chick
+
+menu strip Author 
+Iman Budi Hutomo (PTI'11 A - NIM)
+Muhammad Son Haji Akbar (PTI'11 B -NIM)
+Umi Kholifah (PTI'11 B - NIM)
+Umi Kulsum (PTI'11 B - NIM)
+
+Copyright (C) 2013, Project Visual Basic
+
+menu strip What's Catch The Chick
+Catch The Chick adalah game hiburan menangkap objek yaitu ayam yang muncul dari suatu sisi. 
+Game ini melatih ketajaman mata dan kecepatan tangan. 
+Game ini diperuntukkan untuk semua umur. 
+
+menu strip How To Play 
+Bagaimana cara memainkan Catch The Chick 
+Ayam akan muncul dari arah tertentu. 
+Klik pada ayam tersebut, maka skor akan bertambah. 
+Klik ayam sebanyak-banyaknya sebelum waktu habis. 
+
+menu strip Demo 
+demo video klip 
+
+
+ 
